@@ -2,11 +2,9 @@
 """
 ping.py - Sopel Ping Module
 Author: Sean B. Palmer, inamidst.com
-
-bye.py
-2016, hippyjake [hippyjake@gmail.com]
-
 About: http://sopel.chat
+
+password.py - Lots of code for no reason!
 """
 from __future__ import unicode_literals
 
@@ -18,8 +16,8 @@ from sopel.module import priority, rate
 # list of all the regexes and their associated responses
 regexes = [
     {
-        'regex': r'(?i).*(later|bye|brb|see ya).*$',
-        'response': ["Have a good one!","Bye!","Go on, Get! {} Go! Be Free","Good riddance. Crap {} is still here."]
+        'regex': r'(?i).*(mattress).*$',
+        'response': ["Impressive Sir."]
     }
 ]
 
