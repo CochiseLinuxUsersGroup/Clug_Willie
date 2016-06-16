@@ -17,7 +17,7 @@ from sopel.module import priority, rate
 regexes = [
     {
         'regex': r'(?i).*(mattress).*$',
-        'response': ["Impressive Sir."]
+        'response': ["Impressive Sir. https://www.youtube.com/watch?v=p4puXttN57Y"]
     }
 ]
 

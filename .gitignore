@@ -1,1 +1,6 @@
 *.pyc
+*.db
+*.txt
+*.pid
+*.dat
+logs/
